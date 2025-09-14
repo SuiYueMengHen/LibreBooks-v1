@@ -1,5 +1,4 @@
 # LibreBooks-v1
-LibreBooks-1.1:Introduction to Electrodynamics, Fourth Edition (David J. Griffiths)
 | tag索引 | 名称 | 书籍数量 | 
 | :--- | :---: | ---: | 
 | LibreBooks-1.1 | Introduction to Electrodynamics, Fourth Edition (David J. Griffiths) | 1 | 
